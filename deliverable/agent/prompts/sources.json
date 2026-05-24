@@ -1,0 +1,6 @@
+[
+  {"label": "OPENROUTER_APPS", "query": "OpenRouter top apps token consumption leaderboard", "domains": ["openrouter.ai"]},
+  {"label": "OPENROUTER_LLMS", "query": "OpenRouter top models ranking most popular AI models", "domains": ["openrouter.ai"]},
+  {"label": "GITHUB_TRENDING", "query": "GitHub trending repositories this week AI agent", "domains": ["github.com"]},
+  {"label": "ARXIV_PAPERS",    "query": "arXiv cs.AI most cited papers latest month machine learning", "domains": ["arxiv.org"]}
+]
